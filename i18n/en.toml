@@ -1,0 +1,5 @@
+[hello]
+other = "Hello!"
+
+[welcome]
+other = "Welcome to my site"
